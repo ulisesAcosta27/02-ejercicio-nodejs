@@ -1,0 +1,17 @@
+[
+  {
+    "nameStudent": "Oliver Heldens",
+    "age": 13,
+    "idStudent": "30815378"
+  },
+  {
+    "nameStudent": "Pablo Acosta",
+    "age": 38,
+    "idStudent": "44810839"
+  },
+  {
+    "nameStudent": "Brooks",
+    "age": 40,
+    "idStudent": "44815010"
+  }
+]
